@@ -20,4 +20,4 @@ This contains all of my documents and files that I've worked on in my 12 weeks t
 
 [Flask - Week 6](https://github.com/sohaibsohail98/mvc_flaskexercise)
 
-[Intro to DevOps - Week 7]()
+[Intro to DevOps - Week 7](https://github.com/sohaibsohail98/DevOps-Course/tree/master/Week%207)
