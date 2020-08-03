@@ -15,7 +15,7 @@ ___
 
 ## **Useful Links** 
 
-1. **Find Me on LinkedIn** [Here](https://www.linkedin.com/in/sohaib-s-22a653170/)
+1. **Find Me on LinkedIn** [Here](www.linkedin.com/in/SohaibSohail)
 
 ## **The Training Course**
 
@@ -46,3 +46,25 @@ Intro to DevOps - Week 7 [Here](https://github.com/sohaibsohail98/DevOps-Course/
 - [x] **Week Six** - Flask :page_facing_up:
 - [x] **Week Seven** - The core of DevOps :card_index:
 - [] **Week Eight** - 
+
+#### Setting up new Repository 
+```
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:marwai/help.git
+git push -u origin master
+```
+___
+#### Pushing commits
+
+```
+git add .
+git commit -m "comment"
+git push
+```
+#### Removing Git repository from the local directory:
+```
+rm -rf .git
+```
+
