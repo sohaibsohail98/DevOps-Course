@@ -6,20 +6,20 @@
 
 Welcome to my Repo.
 
-## Training at Sparta Global 
+## DevOps Self study:
 ##### `Name:` Sohaib Sohail
 ##### `Position:` DevOps Engineer Trainee
 ##### `Languages:` Python, SQL, HTML, CSS and Shell Scripting  
-##### `E-mail :` SSohail@spartaglobal.com 
+##### `E-mail :` sscontactenquiries@gmail.com
 ___
 
 ## **Useful Links** 
 
 1. **Find Me on LinkedIn** [Here](www.linkedin.com/in/SohaibSohail)
 
-## **The Training Course**
+## **Self-study Training Course**
 
-This contains all of my documents and files that I've worked on in my 12 weeks training at Sparta Global for my DevOps Course.
+This contains all of my documents and files that I've worked on in my self study training for my DevOps Course.
 
 Business Week - Week 1 - [Here](https://github.com/sohaibsohail98/coms4/tree/master/Business%20Week)
 
